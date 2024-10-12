@@ -1,0 +1,5 @@
+process
+    1. take input of youtube URL
+    2. take transcript of youtube video
+    3. input transcript to language model and request title
+    4. return title(s)
